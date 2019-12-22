@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # EPharma
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -65,3 +66,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 >>>>>>> 586838bc5142c9e91b3a080f324906b25ca4a59c
+=======
+# e-pharma
+>>>>>>> parent of 26927b7... converting to angular wip
